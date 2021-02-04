@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 5 root root 4096 Feb  4 19:31 .
+drwxr-xr-x 1 root root 4096 Feb  4 19:05 ..
+drwxr-xr-x 8 root root 4096 Feb  4 19:05 .git
+drwxr-xr-x 2 root root 4096 Feb  4 19:05 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Feb  4 19:05 0x02-shell_redirections
+-rwxr--r-- 1 root root   35 Feb  4 19:07 8-cwd_state
+-rw-r--r-- 1 root root   96 Feb  4 19:05 README.md
+-rw-r--r-- 1 root root    0 Feb  4 19:31 ls_cwd_content
